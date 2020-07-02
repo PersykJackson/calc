@@ -1,0 +1,12 @@
+{
+    "name": "jack/untitled4",
+    "authors": [
+        {
+            "name": "liloysky",
+            "email": "percyk32111@gmail.com"
+        }
+    ],
+    "require": {
+        "swiftmailer/swiftmailer": "^6.0"
+    }
+}
