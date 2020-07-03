@@ -20,7 +20,7 @@ class show_calc
         $fourth_block = new enemy_cost('clc enemy_cost', 'Вражеская цена');
         $save_the_winner = new save_the_winner('save_winner', 'Победитель');
         $winner = new winner();
-        echo "</div>";
+        echo "<a href='/analytics.php'>Аналитика</a></div>";
 
     }
 }
